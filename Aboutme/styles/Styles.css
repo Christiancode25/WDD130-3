@@ -31,3 +31,12 @@ body {
   background-color: white;
   color: steelblue;
 }
+img {
+  width: 80%;
+}
+p {
+  width: 100%;
+}
+a {
+  font-size: 1.5em;
+}
