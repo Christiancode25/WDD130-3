@@ -318,3 +318,15 @@ footer {
         margin-top: 25px;
     }
 }
+.rivers-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    margin-top: 50px;
+} 
+.image-grid{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding: 35px;
+}
